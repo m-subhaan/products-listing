@@ -1,0 +1,15 @@
+.total-price {
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #333; /* Background color for the total */
+    color: #fff; /* Text color for the total */
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
